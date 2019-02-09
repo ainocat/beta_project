@@ -8,7 +8,7 @@ urlpatterns=[
     #ex:/polls/5/
     path('<int:pk>/',views.DetailView.as_view(), name='detail'),
     #ex:/polls/5/results/
-    path('<int:pk>/results/', views.ResultsView.as_view(), name='result'),
+    path('<int:pk>/results/', views.ResultsView.as_view(), name='results'),
     #ex:/polls/5/votes
     path('<int:question_id>/vote/', views.vote, name='vote'),
 ]
