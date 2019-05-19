@@ -1,0 +1,36 @@
+X7C-LS-IR002,Fundamental Laser,1,0,1,2
+X7C-LS-WL002,GU,2,1,0,3
+X7C-OC-OH001,Homogenizer,2,1,1,4
+X7C-OC-OH004,Cube PBS,1,1,1,3
+X6C-AF-FR001,Fiber for Auto Focus,1,1,1,3
+X8C-OC-OH001,Optical Homogenizer 150,1,1,1,3
+X8C-AF-LD001,X8C AF Laser Head 405,1,1,1,3
+MT-MB-LT0152,Laser scale 0.5m Head only,2,2,2,6
+MT-MB-LT0151,Extension cable for laser scale 6m,1,1,1,3
+MT-MB-LT0050,Mercury Encoder ,1,1,1,3
+MT-AL-LT0088,Macroview Camera,2,2,2,6
+MT-OC-LT0054,Lens 25.4-300,3,3,3,9
+MT-OC-LT0059,Plate 132580,2,2,2,6
+MT-OC-LT0114,Plate 146153,1,1,1,3
+MT-OC-LT0096,Lambda/4 139976,2,2,2,6
+MT-OC-LT0101,Lens 48536-25,2,2,2,6
+MT-OC-LT0102,Lens 48537-30,2,2,2,6
+MT-OC-LT0112,Lens 25.4-250,2,2,2,6
+MT-MB-LT0159,Shutter Unit 21432,2,2,2,6
+MT-PB-LT0038,DDU4-8,1,1,1,3
+MT-MB-LT0067,Chiller ,2,2,2,6
+X8C-MR-DC005,Common diffuser unit,3,3,3,9
+X8C-MR-DC003,X8C diffuser unit,1,1,1,3
+X7C-AF-FR001,X7C AF Fiber,1,1,1,3
+X7C-AF-LD002,X7C AF Laser Head,1,1,1,3
+MT-PC-LT0013,HDD for Laser Ctrl PC,2,2,2,6
+MT-PC-LT0015,HDD for main PC,2,2,2,6
+MT-PC-LT0036,HDD for Offline Review,2,2,2,6
+MT-MB-LT0030,Stage control system MC78,1,1,1,3
+MT-MB-LT0031,Stage control system PP78,1,1,1,3
+MT-MB-LT0099,Shutter unit ,2,2,2,6
+MT-OC-LT0098,Lens 60p,2,2,2,6
+MT-OC-LT0099,Lens 50p,2,2,2,6
+MT-OC-LT0100,Lens 40p ,2,2,2,6
+MT-OC-LT0087,Diachronic mirror,1,1,1,3
+MT-PB-LT0038,DDU4-6,2,2,2,6
